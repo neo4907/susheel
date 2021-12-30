@@ -1,0 +1,106 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: Merriweather;
+}
+h1{
+  font-size: 90px;
+  font-family: Dancing Script;
+  margin: 0;
+  color: #9145B6;
+  line-height: 0.8;
+
+}
+h2{
+  color: #66BFBF;
+  font-family: Montserrat;
+  font-weight: BOLD;
+}
+h3{
+  color: #66BFBF;
+  font-family: Montserrat
+}
+.first{
+  position: relative;
+  background-color: #84DFFF;
+  padding: 100px;
+  height: 500px;
+
+}
+.cloud{
+  position: absolute;
+  right: 13%;
+  top: 10%;
+  width: 15%;
+}
+.cloud1{
+  position: absolute;
+  width: 16%;
+  left: 18%;
+  top: 26%;
+
+}
+.mount{
+  position: absolute;
+  width: 42%;
+  bottom: 0;
+  left: 33.3%;
+  height: 60%;
+}
+.web{
+  text-decoration: underline;
+}
+.middle{
+
+}
+.bottom{
+  position: absolute;
+  width: 100%;
+  background-color:  #84DFFF;
+}
+.photo{
+  padding: 10px;
+  width: 25%;
+  height: 25%;
+
+}
+h4{
+  font-size: 30px;
+  color: #9145B6;
+}
+p{
+  font-size: 25px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+
+}
+.profile{
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+hr{
+  border-style: dotted none none;
+  width: 5%;
+  border-width: 5px;
+  color: grey;
+}
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #3498db;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: absolute;
+  bottom: 200px;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
